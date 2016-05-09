@@ -1,6 +1,6 @@
 name: Jon Fields
 favicon: null
-layout_spectrum: 0.15086179436184466
+layout_spectrum: 1
 typography_spectrum: 0.8441530580166727
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.007013140246272087
-  lightness: 0.5104692948516458
-  saturation: 0.731490061385557
-  rhythmicContrast: 0.6496533565223217
+    - '#e9e4de'
+    - '#823e25'
+    - '#e7c09f'
+    - '#d99266'
+    - '#bd6e43'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
